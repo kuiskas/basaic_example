@@ -14,6 +14,6 @@
 
 int main(void)
 {
-	something new
+	something new 2
 	for(;;);
 }
